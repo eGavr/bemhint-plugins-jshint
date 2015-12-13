@@ -1,0 +1,14 @@
+{
+  "name": "bemhint-plugins-jshint",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Eugene Gavryushin <job.egavr@yandex.ru>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eGavr/bemhint-plugins-jshint.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "jshint": "^2.9.1-rc1"
+  }
+}
